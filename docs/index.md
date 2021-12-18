@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Welcome to our Learning Platform
 
-You can use the [editor on GitHub](https://github.com/wonntann/curriculum/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="top"></div>
 
-### Markdown
+# Table of Contents
+- [Welcome to our curriculum!](#welcome-to-our-curriculum!)
+- [Mission & Vision](#mission-&-vision)
+- [Goals & Methods](#goals-&-methods)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Welcome to our curriculum!
+Curriculum for web development training and job placement for low-income and at-risk youth.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Program participants will learn elements of digital design, computer science, and web and software development in an inclusive and accesible educational environment. We focus on young people 10 to 18 years old from underrepresented groups with web and software development programs.
 
-- Bulleted
-- List
+# Mission & Vision
+Our mission is to introduce youth into tech and prepare them to succeed as tech and innovative leaders through project-based learning and mentorship. We have a vision of creating equality and accessibility through technology and innovation.
 
-1. Numbered
-2. List
+# Goals & Methods
+Our programs are designed to enlist youth with the ability to successfully explore and pursue technology and entrepreneurship opportunities starting from beginner to advanced levels in tech areas.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Contributing
+Thanks for checking out this page, since the more positive edits and critics of this repo will help this project benefit more individuals.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Submit an issue or I encourage you to fork this repo and make another page in the changes directory and contribute to this project!
 
-### Jekyll Themes
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wonntann/curriculum/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Don't forget to give the project a star! Thanks again!
 
-### Support or Contact
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+# License
+
+Distributed under the MIT License. See [License](https://github.com/wonntann/curriculum/blob/main/LICENSE) for more information.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+# Contact
+Tanya - [@wonntann](https://twitter.com/wonntann)
+
+Project Link: [https://github.com/wonntann/curriculum](https://github.com/wonntann/curriculum)
+
+<p align="right">(<a href="#top">back to top</a>)</p>

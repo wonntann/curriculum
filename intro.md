@@ -1,1 +1,2 @@
 - [Web Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+- [Web Standards](https://developer.mozilla.org/en-US/docs/Glossary/Web_standards)
